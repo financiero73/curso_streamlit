@@ -1,0 +1,10 @@
+streamlit
+docx2txt
+openpyxl
+numpy
+pandas
+pillow
+pydantic
+PyPDF2
+
+
